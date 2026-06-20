@@ -1,33 +1,43 @@
-# Halo, Saya [Azaka]! 👋
+# Halo, Saya Jaka 👋
 
-Seorang pelajar SMK yang antusias dengan dunia teknologi, pengembangan perangkat lunak, dan eksplorasi kreatif. Saya selalu bersemangat untuk mempelajari hal baru dan membangun solusi digital yang efisien.
-
-### 🛠 Tech Stack & Tools
-Di sini saya mencantumkan teknologi yang sedang saya dalami dan gunakan dalam proyek-proyek saya:
-
-*   **Programming:** [ Java, SQL, PHP, JavaScript]
-*   **Database:** [MySQL, PostgreSQL]
-*   **Tools:** [ Git, VS Code, Postman]
-*   **Design & Creative:** [ Adobe Lightroom, Figma]
+Saya adalah seorang **Siswa SMK** yang berdedikasi di bidang **Software Engineering**. Memiliki minat mendalam pada pengembangan aplikasi *full-stack*, manajemen basis data, dan arsitektur sistem. Saya adalah seorang pembelajar cepat yang fokus pada penulisan kode yang bersih (*clean code*) dan efisien.
 
 ---
 
-### 🚀 Fokus Saat Ini
-*   🎓 Sedang memperdalam pengembangan backend dan keamanan aplikasi (JWT).
-*   🌱 Sedang mendalami bahasa Jepang untuk memperluas jangkauan literasi teknis saya.
-*   💼 Fokus pada pengembangan proyek kewirausahaan berbasis teknologi.
+### 🚀 Fokus & Minat
+*   **Backend Engineering:** Membangun API yang aman dengan **JWT**, optimasi database, dan sistem autentikasi.
+*   **Full-Stack Development:** Mengembangkan aplikasi responsif menggunakan **Next.js** dan **React Ecosystem**.
+*   **Sistem & Deployment:** Familiar dengan **Docker**, **Nginx**, dan alur kerja **CI/CD** (GitLab/GitHub).
 
 ---
 
-### 📈 Statistik GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+### 💻 Tech Stack
+*Saya menggunakan beragam alat untuk memastikan solusi teknis yang tepat:*
+
+**Languages & Frameworks:**
+`Java` `TypeScript` `JavaScript` `PHP` `Dart` `Python` `Next.js` `React` `Laravel`
+
+**Database & Cloud:**
+`MySQL` `SQLite` `Supabase` `Cloudflare` `Vercel` `DigitalOcean`
+
+**Tools & Devops:**
+`Git` `Docker` `Nginx` `Postman` `Figma`
+
+---
+
+### 📊 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Nazaka25&theme=blue-green&hide_border=true&include_all_commits=true" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=Nazaka25&theme=blue-green&hide_border=true" width="45%"/>
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nazaka25&theme=blue-green&hide_border=true&layout=compact" width="45%"/>
+</div>
 
 ---
 
 ### 📬 Mari Terhubung
-Saya sangat terbuka untuk diskusi seputar teknologi, kolaborasi proyek, atau sekadar berbagi pengetahuan.
-*   **Email:** [jajakaa95@gmail.com]
+[**Instagram**](https://instagram.com/Jaka_nakbaik) • [**Email**](mailto:jajakaa95@gmail.com)
 
----
-*“Learning is a treasure that will follow its owner everywhere.”*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nazaka25&icon=0&color=blue" />
+</div>
